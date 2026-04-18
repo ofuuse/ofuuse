@@ -1,16 +1,32 @@
-## Hi there 👋
+# Привет! Я Дмитрий 👋
 
-<!--
-**ofuuse/ofuuse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я — инженер-программист, студент 4-го курса **ННГУ им. Лобачевского** (Институт ИТММ), специальность **«Программная инженерия»**
+### 🎓 Образование и специализация
+- **ВУЗ:** ННГУ им. Лобачевского, кафедра Программной инженерии.
+- **Инженерный подход:** Владею принципами ООП, SOLID, паттернами проектирования и пониманием жизненного цикла разработки ПО (SDLC).
+---
 
-Here are some ideas to get you started:
+### 🛠 Технологический стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### **Backend & Systems**
+- **Languages:** Python (Pytest, FastAPI/Django), Java, C#, C++.
+- **Databases:** Проектирование и оптимизация БД (PostgreSQL, MySQL, SQLite), работа с SQL-запросами.
+
+#### **Frontend**
+- **Core:** JavaScript (ES6+), TypeScript.
+- **Frameworks:** React, Vue , HTML5, CSS3 (SCSS/SASS).
+- **Tools:** Webpack, Vite, работа с состоянием (Redux/Pinia).
+
+#### **DevOps & Tools**
+- **Version Control:** Git (GitFlow, работа в команде).
+- **Virtualization:** Docker (контейнеризация приложений).
+- **Environment:** PyCharm, VS Code, Linux/Windows.
+
+---
+
+### 📬 Контакты для связи
+- **Email:** dima090305@gmail.com
+- **Telegram:** [@ofuuse](https://t.me/ofuuse)
+- **Локация:** Нижний Новгород
+
+---
